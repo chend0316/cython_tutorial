@@ -4,3 +4,4 @@
 ## ch1，入门
 
 1. 一个hello world项目
+2. Python调用C语言动态库
